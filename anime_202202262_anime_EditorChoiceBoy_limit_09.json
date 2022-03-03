@@ -1,777 +1,57 @@
 [
   {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "-1119906247",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidHD3wU5Yszy3pTUgy8jAAckjv1hH9f/YFi07lQZUy0pJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FateZero_326622",
-      "page_img": 48
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "805431027",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9RBTHMxh0V5PIH3oRlNSf0q4gj15U8C7IpPQv8Nlow5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8d8a6f1c27fa29b9ac0708409dcd49bd",
-      "page_img": 19
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "1434747236",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9FPsaEmfw0EvbiID3mnRF/ozy/UwQVK3iuRQ4PgH+apVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_804443",
-      "page_img": 8
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-1375063912",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefXV5lH4eT5qmZ9JOKk1GEp8dbm9YfXZU+jTYS8X7175Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_7b496324765843b1efce273ceca983a2",
-      "page_img": 18
-    }
-  },
-  {
-    "id_tag": "639491572",
-    "index_page": 2,
-    "hash_code_detail": "1782076539",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAYDQfd0gyXNPlWcPNiEPzI4rRYQHqNPsosVWUNAZgbZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBall_647552",
-      "page_img": 40
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "1376348985",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJoEXZ4CLvkjdEIqAFSdPsbf7TaaWL74I73rkJBm+j0JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_f3b7351415e933e21bcecf92f24bceec",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "639491575",
-    "index_page": 2,
-    "hash_code_detail": "-2057779830",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciZ4wB4IupLNbolZ0w735hYBDzgevrSE1sAReiHOmOEZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "OnePiece_796696",
-      "page_img": 151
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "48246044",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwVbKmLqak9nTtg4diSaXhsdIP9oP76nfRa8wPRk1VbpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_da5c95435c9a97914023742fae4d171f",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "-503133743",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicb354diGvTFS/aV8e+bt+sGSV7ZXIsuDl7zZtWhJqi0ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BlueExorcist_766707",
-      "page_img": 15
-    }
-  },
-  {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "-1380246705",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtniOGo4uNC2kPK1JhHOimq2Ozev0BLHu6tHrpX6FkwpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DeathNote_156423",
-      "page_img": 38
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "1804505561",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczZhIuUY/nxdQzld00U3B3q2yfChb7kDdvVXKGSgS295Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "CodeGeass_846271",
-      "page_img": 31
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "51675711",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/gHM9Lj56bvaKh1q47lxYWlPXWh25+vvtIQtJ+Kh6/JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_bb43b8c691563c2430f859bb196eb53f",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-1752811274",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicO4PHpJmjq3Vi6tLOZj8NX2FIT4w7AsYBBl3hBwp74pZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_59e94bdfa404909712dd86a68bbed7a6",
-      "page_img": 18
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "382398500",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieX/GL1wDJ1RMHlHh6KZzyfvl0Dc+/HU78K18sTqViM25Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e984842a7f8ddf342365926f2a529f5a",
-      "page_img": 21
-    }
-  },
-  {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "-2051811725",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicCXWtFYV94GLPuJDHRCdNMosJtN5cxRu8LeD07UOvCp5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DemonSlayerKimetsunoYaiba_1025194",
-      "page_img": 39
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "977816899",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifymHCcrARuWDSnNuPCel7QuGhe06HwW6FSME31ZGxImpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Haikyu_965532",
-      "page_img": 134
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "491323660",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5rDggdxh8kYMBGtb2Yl4fWkGGqaYBk3goEJomKARl5JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e091a768bb3503e971ee49450df52f7d",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "-1668488524",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsVF4EHxWRnxbjO8WvbIkYHy+qTUvkW0+eJB+TWzyJ55Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319083946952",
-      "page_img": 22
-    }
-  },
-  {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "55881658",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGaIfuQQdt6DzWdGQUG+kA/w+pguzl+P/lwdCzDi+7bpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Crossover_855020",
-      "page_img": 36
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-147356543",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFcQq/R4hF29ecpMJgxkatkaTpj1IQdwTSI0pheySVKJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_814791",
-      "page_img": 8
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "915330115",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicI0pJgmssWd16AIIIg0sFgvPpIDAJQ6oPsJNuxHh82B5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MadeInAbyss_916532",
-      "page_img": 143
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "231980901",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8e8FULACKsCidgosOqTfuNgPyduiGQvpp9bcpZxqDa5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c6f6214a6d8a9f05d22dca1b89780d95",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "-1650597854",
-    "index_page": 3,
-    "hash_code_detail": "164299054",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuhAd6clZMWQ4cPEbc7Bjto5rdNTucdI+E413SFf5e85Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "TsubasaReservoirChronicle_757283",
-      "page_img": 191
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "1765946459",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicY3hDmbaqdaYdKeBFyKkFgfJ57LA9TAXmYIAA1IAHjApVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BeyondtheBoundary_806250",
-      "page_img": 10
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "2016973640",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicz3KvHLb9gzYUTKP0M9WDpd4e9zwQilbOzoI2yI2NLhJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AngelBeats_258159",
-      "page_img": 3
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "1261352875",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxGOlnw4JLktfy71rmL2mITl8Q6mMn59mFqZlfWw3F25Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319083944527",
-      "page_img": 22
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "-1497214298",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYEgbkY5uNRM6MhgPOfAFq5Yik67NJEjou0n9hs/Rb95Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Vocaloid_768669",
-      "page_img": 193
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "-1446330660",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieADjUVSxJmMfGkiQjYtJyTSPA8pP3sLgN8Gjnxp+sGKpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_294252",
-      "page_img": 13
-    }
-  },
-  {
-    "id_tag": "639491572",
-    "index_page": 2,
-    "hash_code_detail": "1888527078",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfyOnWLE+pftOvC0ujuSBUgHxRO8fF/OXnBlBH/dJtE5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBallSuper_606994",
-      "page_img": 40
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-1193016938",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifTjIsDrTzRGmPIvyuqQxauYUAmejErTHDo06eDySqta5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_7cf3989bb9324689b4d7212436ca3bba",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "639491575",
-    "index_page": 2,
-    "hash_code_detail": "9626933",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieJ7vTW6OoN/5aH1AQItxVNNMIxE/b4cAb0vEwZDtZOpJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "OnePiece_960048",
-      "page_img": 151
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "-1102589292",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkk41wY0EqHV36ELN2kkTtdhfPPzHw9mOYqeUSnUzZOZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "KatawaShoujo_295943",
-      "page_img": 139
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "329228350",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifV+sa8/Em/6hlwQJBLTGpeNuSr0WTdjArtfdutuvTIi5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SoranoMukoudeSakimasuyouni_792722",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "-193765580",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZSgSdVaYDnvfJpEXHxMOs12I3juxmAO95FeI//MdOpJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "JibakuShounenHanakokun100620104359",
-      "page_img": 136
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "1052534339",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifg/GQUVbZqnfAwUOtYWoNrb7TnnvgHUvKVNx+K6hl5YpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319083941864",
-      "page_img": 22
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "1686192213",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkJm2M5Qa+jwljoJ6G7qXP4PES4cZKK/7Rz4Y6oUPn25Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_ab1dac056c6fa056a7bbf10d28e3ae96",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "-250469844",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefRq4BZ9n/eTe/xRHn4mJrugJ8bueY9vjuNhnvg+VRKJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FateGrandOrder_963649",
-      "page_img": 47
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "1434401857",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxszgnoKrHNkGAuI2mPs5JthfdcQ48jBTJhSXVlWz795Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_60f8ea71e9e032d586b13a18494642b8",
-      "page_img": 18
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "1288371764",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicrHGC//I2c8BqZq/eGV4o+KNgRrtZJZzRFI/Id7F9GhpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DeathNote_103020",
-      "page_img": 38
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "-24924253",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifdn0I2o2s/dD2XQ4nwus6kQWWiySpvNE6O3LoELo8yOZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Naruto_946549",
-      "page_img": 148
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "-8612809",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepdK/KTngmWw4t9p0BM+BJxkP3EHFDZUjXx8Ll3Uyas5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "RomanticSagaofBeautyDevil_955677",
-      "page_img": 175
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "1002466464",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicI1w92Z8tHaP+RDRNjKrxLw7ozn54TrI5XjtpTrCHeHJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "YuGiOh_778905",
-      "page_img": 199
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-41761876",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicYmIIk96XeBWkndomPpmUU3FDPk9pku0d1hCsfxiG6c5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AriaTheScarletAmmo_160497",
-      "page_img": 6
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "1895944380",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidZJrhJQzDL+hr/N/ABtlHyD1BTDTW+uh6/mZZasuyoQJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8603595e6a900b4d583bb42438c71c34",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "903984582",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceot45aIB+4Ge+HdBQdPCsl1RehCOOry6z91S7TVBAA5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Noragami_555500",
-      "page_img": 150
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "169992302",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwc2CoBBuNibPy/7BRP8WwEQf/+vrZSuJvluVmnhUAtJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SwordArtOnline_791935",
-      "page_img": 180
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "-1874121999",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieAByPKvEw/i81Jx52MAfVXFQw5Ff34RLHeG3EBQV5/4pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e04d372c1d909669c7335f9b897d1091",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-863676244",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidUUKLabJ937i8zP/4Koi2NCh6Jg10NLcQtd3H5zwOVh5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_7bdca8bb08e52e6fbad93fbfa4d8b801",
-      "page_img": 18
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "338605300",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieUzfybsfqeMxfDy0PqEoJspWIpi3GrtwbTF3KGFjMaVZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "LoveChunibyoOtherDelusions_799159",
-      "page_img": 142
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "2036721079",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifFyafp/QR1H4SDpgLkPwuLCfmhscJj6q7NRxnWLwR4HZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_247f8de5b99b092a91f6df80645ded55",
-      "page_img": 35
-    }
-  },
-  {
     "id_tag": "639491574",
     "index_page": 2,
-    "hash_code_detail": "-1053097199",
+    "hash_code_detail": "-2007491960",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/5kkR3+DOAnPIWarkJTTbg4C/84W/DEhMgGnZXPBNxJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MyHeroAcademia_856597",
-      "page_img": 146
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-544668718",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifCDLWfkQp4+9S3WEo3qwjWhR+H4GGXttCX+ye3pcT8l5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_bad55d73cbca21bb161b40550d7bf0b2",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-455192246",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifvbu5hRglt3eQzDx1d76ncI3P5MB4MgaW9Q6+It2u+85Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_16564050e98a6f69dafeabd89b094d7e",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "608025797",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiekiOMueaQtm9hPRSX9RZDatihs2Fp1i8KZZV5ldbhUYJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319084338155",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "1168278466",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicy+gNaGXn5+7AHN3IsalVDnt9z8ltMsMzi2gZiUHRxkpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "TokyoGhoul_973668",
-      "page_img": 185
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-1873184632",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic17nYyGTdONSU6FnIqbn0tprdLvV52VUx5PelMylFyJpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_6b7a2a6b6e273515a8690bab35b7100a",
-      "page_img": 18
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "1028216445",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcz4pVxzF9mZu+V3LGJtDWxxDGcUFmv7zsGBXY1dGhT5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_579233",
-      "page_img": 14
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "-755078214",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieTSZMYK71k6bbwLTe3oJUp/Rr+tlajnCWDh1Tct6DQ+ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319083959321",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-1494147755",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicFnFNd3REJN5BxDguBsniPn6ihwUWVk0c+4gKxeJDHlpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_785644",
-      "page_img": 8
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-225778545",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmD/gMaBdL2aj500RH4q29kfbjlgyD6hwuiC4wltH4KpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_607866",
-      "page_img": 7
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "-239664916",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifm4o5fpa6kXOXAfw9gT1gyK6U83sS58IvA9Oeoe/V0hJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8832d2916ca30ba0168355834de30618",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "1325658346",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieeDvyWrUhMTydcoBecjIoEPBClDKjNurydBOC9LEHqGZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SwordArtOnline_813047",
-      "page_img": 180
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "-598314621",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMeSGTubVnfxXNmjBBSAnvs4b5ddiKxQEMICBeVxt49pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FairyTail_737932",
-      "page_img": 44
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "-778218725",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieerWLJS0QtjluBe06xY/nUbo+6mMmpwJR5cs+gYvWgi5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_881222",
-      "page_img": 171
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "1433457408",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQeiIwZqh10J/UgMDRQfTbE4N7SH2f0phvHir7C57usJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_304531",
-      "page_img": 14
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "-1645206125",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5+kbWhaoGOZT40IMge9+XkmGUS9glrUhJmMTrniq1+ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319084339179",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "-586433662",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtaOrQxOYpRtPteWEqiF8taAx9NmWmajWrxBja3ZUSKZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Boruto_810560",
-      "page_img": 16
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "999878321",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2QKYbE9oYgqh21wCSuN+GCkS5PRKdkkNPue481gDXn5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "CodeGeass_634867",
-      "page_img": 31
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "-2029284665",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciAXxILeK27ATriN8JRFxUeKVpQU64MStNuGn7lU59rJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_10527029ebfb199f3ab3990b6345ec8b",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "1497887114",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidSVNIxliVa+gqpKLafOksCz7hsIdRyFN+aK09+QT5qT5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_689418",
-      "page_img": 159
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "1495341259",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifDD8QZF1ZqVZqqHSMlkQwTLL+1IKrMa+Sl8bTPEATrkZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_0c679a3c6bcf0fa25ed33b44146154c8",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "-1692594531",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieltn4gfBQLqYESwhn8z14av3PqlArZF/mL55XYeAp/IZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Naruto_727999",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyj973W2Mxvx+PsUxigszYTf1l0FJLsVi+HGnw7pheqZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Naruto_748028",
       "page_img": 147
     }
   },
   {
+    "id_tag": "639491572",
+    "index_page": 2,
+    "hash_code_detail": "-1153666803",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnmkTU5zFOuSCHbaw/Og8iVdoX3iKieduBPwL5+p+2SJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallZ_652183",
+      "page_img": 42
+    }
+  },
+  {
     "id_tag": "-1650597855",
     "index_page": 2,
-    "hash_code_detail": "-963076119",
+    "hash_code_detail": "-935922661",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifeH2+vfmMPcsKmKsCcHdbjoO+ZjpQHdRPFAoa6kjdq85Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SwordArtOnline_791810",
-      "page_img": 180
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtbHIebGXJP4YrZoVOdDSymY+umTSbsYp/sl6EgIFW4JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "RyuuounoOshigoto_911430",
+      "page_img": 175
     }
   },
   {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "1407408473",
+    "id_tag": "639491569",
+    "index_page": 1,
+    "hash_code_detail": "-375383450",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiel6k6sQ5l4iW2LCAg9l1GYJMRvJiK2putqm7khf2tgypVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_b3447ca2dd1579dcfb5f08d074b16580",
-      "page_img": 19
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidB3Ll87d37CiH95ts64KFdkSrxmlce9P679gwyN0iUkpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_8b640a08c0475b0119fa16bce32f6608",
+      "page_img": 25
     }
   },
   {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "-1134719877",
+    "id_tag": "639491571",
+    "index_page": 1,
+    "hash_code_detail": "371997733",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifncsY1gyXcSr1tX2krMUutGJ5ARUSMjEjr9c2fABphjZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FairyTail_748267",
-      "page_img": 45
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVVNSUEMjkEVDQCWlg+U+6V/6zBQVC9C4lrN54LNe16JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Doraemon_503547",
+      "page_img": 40
     }
   },
   {
-    "id_tag": "639491575",
-    "index_page": 2,
-    "hash_code_detail": "1487262772",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic6u9g2bovFDCSLGR/F95VPd+WEIomoXoDlRs12iyYai5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_241469",
-      "page_img": 158
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "970023527",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicIy7HmBppGJcHJHvF3EtSqEwf5OMEGQmNoIzi0cItSapVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MyHeroAcademia_815267",
-      "page_img": 146
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
+    "id_tag": "-1333025877",
+    "index_page": 4,
     "hash_code_detail": "-1455682730",
     "detail": {
       "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8xxHMxBLefg/gkdC2TPQTqTa58iIhFhtAvsCFdRGYpJVy4706IhQgSYlgwrgVRHU=",
@@ -780,413 +60,923 @@
     }
   },
   {
-    "id_tag": "639491572",
-    "index_page": 2,
-    "hash_code_detail": "-957898515",
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "1116952722",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidbPnvux5ZFFtynnK4jiDZSm28XOf9JfeqqV00ve6WqTpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBallSuper_965776",
-      "page_img": 41
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD2pa0E9Jw550/aQli6u+zGLJ/12Zcf/vSh77CBiiud5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_564003",
+      "page_img": 14
     }
   },
   {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "-1797549319",
+    "id_tag": "639491566",
+    "index_page": 0,
+    "hash_code_detail": "1205947768",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieSG2WVn4q5fvyKX6zoaDYIlQ35/8UH7tk/3h0l1T5ZhpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Neverland11062023095422",
-      "page_img": 183
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxz76y1W3mjgsIADH1NpbBIV3sdGiCDF8x088bBPaB25Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "AttackOnTitan_814827",
+      "page_img": 8
+    }
+  },
+  {
+    "id_tag": "639491570",
+    "index_page": 1,
+    "hash_code_detail": "674184669",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie4MSCLD0PGhnz9kRenTevX8erqETNcVsRdaZHbXJjuwpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_be6a383cdff7bbccca6bde13ba67adfd",
+      "page_img": 25
     }
   },
   {
     "id_tag": "639491573",
     "index_page": 2,
-    "hash_code_detail": "-8056430",
+    "hash_code_detail": "693293393",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiici9uGTmESR0fa5QLGYrRTwGBJYkr+AueEBj6q8h/D8PpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "KaguyasamaLoveIsWar_2393345",
-      "page_img": 137
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicstquDQHLYin/PJg8WZSPKkwZb/xkpilgm/KVECtueP5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "KabanerioftheIronFortress_696614",
+      "page_img": 136
     }
   },
   {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "-473572891",
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "1350064719",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidcr/2IYakBv7H537H7kshR+lEC63aozDewJaTUdDOPoZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_819233",
-      "page_img": 167
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzd42AHbMNMLnCv24VobAb2JAY6vK+N71zsMCG47H0t5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_603511",
+      "page_img": 14
     }
   },
   {
-    "id_tag": "639491575",
-    "index_page": 2,
-    "hash_code_detail": "1717982018",
+    "id_tag": "-1333025878",
+    "index_page": 4,
+    "hash_code_detail": "-413406768",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidYux5keKaw3c8s77mxrNdWcps8eYuflu9z8kKs9BJOaZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_951021",
-      "page_img": 153
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "114929437",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid6tswjHTq5B/0eqJQsSeHEJzBzm6WclkeUuLbOLcO9m5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_31a4ba0d4852030cbacb48d85b42f9b0",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "-1650597854",
-    "index_page": 3,
-    "hash_code_detail": "404273349",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7CZ5/4dl9br7WUZbKO/RsQTSJ3kO6Fd2bnF7/D+Af6ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Wakfu_630021",
-      "page_img": 196
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifIFdVKJ+FXIwd9I/tgQAuLYbD7f5j0gTcHDqkIsRWNA5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Hyouka_955937",
+      "page_img": 135
     }
   },
   {
     "id_tag": "-1650597851",
     "index_page": 59,
-    "hash_code_detail": "667060654",
+    "hash_code_detail": "-365254238",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOJYjgEs1KU9TbyNswdjRDGmxkSoGD99aOyXY5tAwWRZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e154a0b7222b07a4d5607ee8ad96d7ad",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "1186404112",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpSkjmn2YOgRTZDQvDWy/I9oQ/4wqyvqRn+9u4BvwheZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SnowWhitewiththeRedHair_667261",
-      "page_img": 179
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "-1231725588",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie+R7OT9JPZKEryM2WaNk5ZUZpczvY3ql1XdgR+H6Pon5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Xenosaga_214470",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "639491572",
-    "index_page": 2,
-    "hash_code_detail": "-1152784456",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidTrmIvIwfzdscJX2MAO6RTgbWbt+DqErHHDlYGDSCmMpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBallSuper_812465",
-      "page_img": 41
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-994570840",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieggQjkw0CXdGJls7eH6VJjDMOrT+qReBWoG7ncgdk0y5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Barakamon_713790",
-      "page_img": 10
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-807743845",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqs0LCUat4YwppQTEfbnpiQUsytRdSjZxk9US1dIq7RpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_786063",
-      "page_img": 8
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "-1407731350",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6PRHVIDvcFPP58eaA2VONschi30LWG/eTdY2lZkH2TZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MobPsycho11062023320925",
-      "page_img": 144
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "-809954687",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid230p0kIwez5yseVSbkvQYC91qWtosCsYkoAviUzmZIZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS118031934",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifWZlOI/OyUqQ9MKPHinR8GvBY6Ir25SrrmPKRce7TUaZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_ecbe0c8d08e12c4921611b8fd5b49e54",
       "page_img": 21
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "387672583",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieP3IaQmYehqFOeNo2UaG8TgldJulhWle3e8M6P/J4p35Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c6660094483a53f7d8f1f2c375e7c850",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "-657524254",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicHLxdZMT8yUDMkKojDkydOn7nIlFZ2dt04BO6crwsyhpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_45ac8746b0cb53b6f9e4230e106c9c33",
-      "page_img": 24
     }
   },
   {
     "id_tag": "-1333025877",
     "index_page": 4,
-    "hash_code_detail": "1485163719",
+    "hash_code_detail": "-2017014215",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifh3lPH7EJw+jK18Gh2UdWcT73w38Ps8NcrCUepdeAqd5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_737192",
-      "page_img": 161
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZiIXlZ+RRzrGXPaUiqPmaW13Rq7RVXXeOsDhZ/pGKspVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "MyHeroAcademia_965242",
+      "page_img": 146
     }
   },
   {
-    "id_tag": "-1650597853",
-    "index_page": 3,
-    "hash_code_detail": "1150027866",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidjMh5GcWyYnXJYAHdbe97xhNhZCGyKBrpDGjRWfSiyw5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_1abf1f39301ddb64a1315c84d43af16f",
-      "page_img": 16
-    }
-  },
-  {
-    "id_tag": "639491567",
+    "id_tag": "639491570",
     "index_page": 1,
-    "hash_code_detail": "-1020142091",
+    "hash_code_detail": "1167358191",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifSnNOmRIi0wRO8YCzSQdfQMyIDuuyYvT5e52G9ELC9zpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_689468",
-      "page_img": 14
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiflp46kpOunpBezOSTjfA5B/NX7n9X76vetWaU8luvLZZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_baeec983c345e65618adcd0661640579",
+      "page_img": 25
     }
   },
   {
     "id_tag": "639491568",
     "index_page": 1,
-    "hash_code_detail": "197761989",
+    "hash_code_detail": "-1332735051",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierxEsiSUfh7oOyC4KyjLRYRcNM5k60ylDXE/xkuWfvMZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Boruto_727053",
-      "page_img": 15
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "-802030283",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8kjeeJPSabVWxG41B7fENnQT4008V86qbIPs7JJHiMpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Clannad_536382",
-      "page_img": 29
-    }
-  },
-  {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "407454885",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicnzbbqUmshQuCu2H6zPMqNWcjT1C0v/1RN9/YTYwZDupVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DemonSlayerKimetsunoYaiba_1006553",
-      "page_img": 38
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "2015704707",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiceuZ3wy6gcWsmenR+5pkeDyHuOcHqOJUOBixoKnc9uHpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_766083",
-      "page_img": 164
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "-543786455",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4e9Y28AOwsPotmIJ3rTZ8InClSctighpSN5V91ofJK5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BlendS_890913",
-      "page_img": 15
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "1613767317",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepmRVy3NlPFFAZXqQliYdoeSaspVUWDdUB7Iy371o5wJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "TokyoGhoul_596695",
-      "page_img": 184
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "1104533508",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidnsa9fCLOb8AdvZ1ycvR/JRZfxMJWyB1+76dI+bEg3FpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_ae880fb5af4d8e1001e98d52329b3d17",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "2110697549",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRmZrM88StjKjMpdeqBnpObtiXmhhbNKaoSLjzoPOTIpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8d4b1658ccf4038d627df6921a1ae717",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "1012550851",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidMvzX4srG/YkCrkwsdxfupF5rKWGPodvgfatVU89cdK5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_4f4c427f6995da25a0b7074152c73267",
-      "page_img": 17
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "-1486084946",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifAwl/FR5HcsUxNmhUauNCRTtHiayZqON/kd1hsbAUIMpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_32a97c0d71ed045276e2e62ddd05351a",
-      "page_img": 35
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "1149925532",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1btKdL1uQ6YJx2es8JlDC2te71aEy9dPRP0xULhf0oZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS32103190839511103",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif32iwCti1VJfaCMVTu5SqZuFwp3QhKDBa/ZYIzB5+ahZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BOYS3210319083944625",
       "page_img": 22
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "2035474918",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicovpS7DqoFUTFYkIzhIQqTg8LHg8EBZe54thdegS0iYZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "KamigaminoAsobi_769832",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "1743702711",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiewO8+oGZsixT1IpDuHaiI8x310XjcDiDaEtdcX9A8EmJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_370736930fcb2667e64dffec0832bc98",
-      "page_img": 35
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "-2069549170",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+X8UlHT83eyHCCuqyP0eoxDQtjsV2aV3Stwudm9eYU5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DGrayman_214163",
-      "page_img": 39
     }
   },
   {
     "id_tag": "-1650597853",
     "index_page": 3,
-    "hash_code_detail": "-1955428285",
+    "hash_code_detail": "-1144802381",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZAXc59Q6oYjn6+qOoGwxQMD823f+s6UHpU2WTNMt0lJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "YourLieinApril_832754",
-      "page_img": 198
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieRHnYYMkzmAAxLuq1nb3xAJWXhLTj9yo3Ysm60Df+DDpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_3ad7af7f7847f5269016ec73922c64e8",
+      "page_img": 17
     }
   },
   {
-    "id_tag": "639491573",
+    "id_tag": "639491572",
     "index_page": 2,
-    "hash_code_detail": "847641620",
+    "hash_code_detail": "-1341540121",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiePYBJniAsxhLhktmWJ8Hg+AQcYbaQYvJMw4SxtD/c7aZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FairyTail_760632",
-      "page_img": 45
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/3ECeHLjErfGLiSAngOkF7rgDnO1t222/Uk0DIHXrWZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallSuper_886839",
+      "page_img": 41
     }
   },
   {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "-1546820243",
+    "id_tag": "-1650597853",
+    "index_page": 3,
+    "hash_code_detail": "1268798784",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5N/VYDoaP9ZvANd9xFUuKFxNlF3ZG4JnjL9NFmw8V8JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c34f967489635a7da00a5e1e9de8bbc9",
-      "page_img": 35
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "-1878515839",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicorjhbBaxmFctMZO5dlBxSKzTa1MPJdll1wZ83LfhrY5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Tsugumomo_798976",
-      "page_img": 191
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "609952051",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicLRYlpK87FBEoocgPINN2CHGasOR0dMYT3GmSEEPLLkJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "TsubasaReservoirChronicle_757419",
-      "page_img": 191
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicsG43hnmHe4Slsp1yN2zbnG7VYYiNRtJ5S9ekuRre2BpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_0f428a0abb74994b9f535b4e0b689736",
+      "page_img": 16
     }
   },
   {
     "id_tag": "-1650597855",
     "index_page": 2,
-    "hash_code_detail": "415474093",
+    "hash_code_detail": "1046168108",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidJgTq4sQcTGDN60rhmfN8Xh8NmyfbEU0sJMB2YlcqDZJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ShamanKing_228280",
-      "page_img": 178
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif6cXCA+uk//ECYuJwT++g/cgaWN+7M4ieyReGFDLLYEJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "SteinsGate0_945715",
+      "page_img": -1
+    }
+  },
+  {
+    "id_tag": "639491575",
+    "index_page": 2,
+    "hash_code_detail": "2041126981",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEWS4It+MUOYOQJJYc12w7WvSg8VugwSJCxm8C6YOTwZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "OnePiece_222099",
+      "page_img": 150
+    }
+  },
+  {
+    "id_tag": "-1650597851",
+    "index_page": 59,
+    "hash_code_detail": "-389754138",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidEKQ5K438oJaba4WpgWj3D+ey3WRIwMBniQZyLmuBJtJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_d525eac60be7ba67ccd52e17bc746de5",
+      "page_img": 20
+    }
+  },
+  {
+    "id_tag": "-1650597853",
+    "index_page": 3,
+    "hash_code_detail": "-198330416",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidn+B5V3gGCNzElET8IP4zBSdEdfJiCN5j0WxvJ5/DItJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_32f000182bdde1e1bf4fe9d28cd26a06",
+      "page_img": 17
+    }
+  },
+  {
+    "id_tag": "-1333025877",
+    "index_page": 4,
+    "hash_code_detail": "-15994335",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieoJo+fk08uAnheTGjNIKcLTxNNDVzvRSh9mZwAHmPc2pVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Noragami_751162",
+      "page_img": 150
+    }
+  },
+  {
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "-1381356577",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid7nmMDj0fuSkBtVCH6OvvTyk+8NjauduDdecb12+mTqJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_264243",
+      "page_img": 13
     }
   },
   {
     "id_tag": "639491571",
     "index_page": 1,
-    "hash_code_detail": "-896896253",
+    "hash_code_detail": "845623515",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicmeShAEogHuQ4fpbhnhOWPVHU6dMMld7myb5N0mGzpMZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DemonSlayerKimetsunoYaiba_1010687",
-      "page_img": 38
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZJx+4+KA5F128RTLRHAlgOR5YpXIHeKtlYMx8v9n2IZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DiabolikLovers_954878",
+      "page_img": -1
+    }
+  },
+  {
+    "id_tag": "639491571",
+    "index_page": 1,
+    "hash_code_detail": "670475246",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8B4RTqopdRJX/gxFYIN6zLUOBO6CAWSPnjzofAC4rgJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Dororo_1000854",
+      "page_img": 40
+    }
+  },
+  {
+    "id_tag": "-1650597854",
+    "index_page": 3,
+    "hash_code_detail": "973348923",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidqCaGzS1TGkAkkhob5gnqpK64S06bgHigvyoL0bAlShJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ToukenRanbu_777244",
+      "page_img": 190
+    }
+  },
+  {
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "-325597304",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+lou43B1E+1FQlrj1EbOEp/+D+PaT5pAekObO5Ii0dZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_294537",
+      "page_img": 13
+    }
+  },
+  {
+    "id_tag": "-1333025877",
+    "index_page": 4,
+    "hash_code_detail": "-1939917456",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieW11qv7j6yB1FPuOb7qSeA4JVbtCDVGVxxb6BUiqpdKpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Naruto_946085",
+      "page_img": 148
+    }
+  },
+  {
+    "id_tag": "639491566",
+    "index_page": 0,
+    "hash_code_detail": "1864870878",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieIlW1Rk9VNxiMGaWhcEsIdD7gy7o4eeRef/PA7Bwy0xpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "AttackOnTitan_833069",
+      "page_img": 8
+    }
+  },
+  {
+    "id_tag": "639491570",
+    "index_page": 1,
+    "hash_code_detail": "1301384860",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicKdxKUNYNpwdn54GB92/5Q8KUT9AgXlAfEYiPIKtWNDpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c02544ee22a01b809d58e2409c9656b1",
+      "page_img": 25
+    }
+  },
+  {
+    "id_tag": "639491571",
+    "index_page": 1,
+    "hash_code_detail": "1258120879",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiefBHmzk9bq/jKjkVk6zvmHnCA+eFPsDQgSzslDANpCGZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Doraemon_488985",
+      "page_img": 40
+    }
+  },
+  {
+    "id_tag": "639491568",
+    "index_page": 1,
+    "hash_code_detail": "292513416",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCmx+mhIJZMJhiIpXRV361zJTy6GMoLLwxkyl9rUtY4ZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BOYS118031947",
+      "page_img": 21
+    }
+  },
+  {
+    "id_tag": "-1333025876",
+    "index_page": 58,
+    "hash_code_detail": "98371465",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicaQUhP+dP1PzHL5gOUAnLOipKsBOkPFmrfLF7nseQCppVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Toradora_733178",
+      "page_img": 185
+    }
+  },
+  {
+    "id_tag": "639491572",
+    "index_page": 2,
+    "hash_code_detail": "514403293",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideURdHVOH7JQ8ida2jmJvA6ER6T9GIiL7TG4xL4jcKQJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallSuper_801975",
+      "page_img": 41
+    }
+  },
+  {
+    "id_tag": "-1333025880",
+    "index_page": 3,
+    "hash_code_detail": "319875000",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRJslfXVDg4EIAvbRTWrdTFepuUCAWaQTr9vP/u82en5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_07d7cdd0530a28a6ed1fffd345e67e71",
+      "page_img": 23
+    }
+  },
+  {
+    "id_tag": "-1333025880",
+    "index_page": 3,
+    "hash_code_detail": "981852804",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciRPh3e1fAXCTInnPrLU91oxpjklSz6g91Wwb5mH6+FpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BOYS32103190839531136",
+      "page_img": 22
+    }
+  },
+  {
+    "id_tag": "639491569",
+    "index_page": 1,
+    "hash_code_detail": "957587071",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicl4uyqxlfkfyhxfN1XMwxmt/ekzs6RBK0IrLovgcAgrJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_30538cd8c766c2bad5e640a85b855675",
+      "page_img": 23
+    }
+  },
+  {
+    "id_tag": "639491568",
+    "index_page": 1,
+    "hash_code_detail": "2020662356",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifaunFcURjW1INXLAa0Dwdd1ueJToc3zUewj3rIuOaXk5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BOYS32103190839521098",
+      "page_img": 22
+    }
+  },
+  {
+    "id_tag": "639491575",
+    "index_page": 2,
+    "hash_code_detail": "57663399",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgbV5f+x62lo7cS5ZZygDSLat7Njua+2BsNyHQhye9aZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Original_311622",
+      "page_img": 158
+    }
+  },
+  {
+    "id_tag": "-1333025880",
+    "index_page": 3,
+    "hash_code_detail": "647094597",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieXb2L73PC2rNZc/AkFiNUFrDlgKsV2LTRm9OwADe1y45Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BOYS118031927",
+      "page_img": 21
+    }
+  },
+  {
+    "id_tag": "639491573",
+    "index_page": 2,
+    "hash_code_detail": "1709217400",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHm8tIzZYPV4bj8lrGG/yiNI1COChzZ28sAUMbLJIvB5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "FairyTail_951093",
+      "page_img": 45
+    }
+  },
+  {
+    "id_tag": "-1650597855",
+    "index_page": 2,
+    "hash_code_detail": "1847682294",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7kuVJhsZgYavJPA6zyNsgyZMKYxlJVcNv7UtZgUYWdpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "TalesofZestiriatheX_788377",
+      "page_img": 181
+    }
+  },
+  {
+    "id_tag": "639491568",
+    "index_page": 1,
+    "hash_code_detail": "2038276883",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifa436WDhma4gOgSt8yPVxkBZ0LkKcRa2DZGB1zv5pviZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BOYS3210319083941772",
+      "page_img": 22
+    }
+  },
+  {
+    "id_tag": "639491568",
+    "index_page": 1,
+    "hash_code_detail": "-1051457101",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic8AlNpHmD6XJ93oAhS0V/HfwAEJ6b0Ww7HIOMa26KWOJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BOYS219031911175923",
+      "page_img": 21
+    }
+  },
+  {
+    "id_tag": "-1333025878",
+    "index_page": 4,
+    "hash_code_detail": "-1497337343",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieuOxuoW3xKnrz7N5K2C69Ist70CVHGhKlRiQ9WAMdzl5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Dororo_1006120",
+      "page_img": 40
+    }
+  },
+  {
+    "id_tag": "-1650597852",
+    "index_page": 3,
+    "hash_code_detail": "2082206084",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlq47DwDdASnUsvNLDaB3LNDUK4gKtbnCrkh3hfdleDZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_9a1a625e798e0ca3624021d1393130db",
+      "page_img": 19
+    }
+  },
+  {
+    "id_tag": "639491570",
+    "index_page": 1,
+    "hash_code_detail": "-1293389523",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie1KKzN9d3MweHTnEo5Ms4a/FYTKnUjWiyW+3u4p1WULpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ClassroomoftheElite_877013",
+      "page_img": 30
+    }
+  },
+  {
+    "id_tag": "-1650597853",
+    "index_page": 3,
+    "hash_code_detail": "-1455269565",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidS3Z//LyJhGwYm3uqkJ/+WXeplyYuuyPLcEqbigx5XHZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_2c285c93aaab86662f2502d9bfbae6bc",
+      "page_img": 17
+    }
+  },
+  {
+    "id_tag": "639491572",
+    "index_page": 2,
+    "hash_code_detail": "-1237507866",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif9RqUXCaGBalrMDuoU/il/fEiEhQPlNbZkOx+wNSyF+pVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallZ_474493",
+      "page_img": 42
+    }
+  },
+  {
+    "id_tag": "-1650597852",
+    "index_page": 3,
+    "hash_code_detail": "-1815844257",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie71xvdaAzfN1nsgeDGcTkIVOpmq3Khk7HR816hiJKtb5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_7f2e251538a69f65aacab0875ad9c2b8",
+      "page_img": 18
+    }
+  },
+  {
+    "id_tag": "-1333025876",
+    "index_page": 58,
+    "hash_code_detail": "-495059213",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQd/tgQL+glXt6fKFCdUqAWhchlahzLo4T0VgcDu0rc5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "TheSevenDeadlySins_933762",
+      "page_img": 184
+    }
+  },
+  {
+    "id_tag": "639491574",
+    "index_page": 2,
+    "hash_code_detail": "-1629342034",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid0nmfB7SoFvoaV61fLp5QxxFp7BDVSzFumMmAz1dHbTJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "MagiTheLabyrinthOfMagic_934334",
+      "page_img": 143
+    }
+  },
+  {
+    "id_tag": "639491568",
+    "index_page": 1,
+    "hash_code_detail": "1742247996",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid5bLNGSahxwvU0XmdrRwQ7IV2XaJ0/ayArHtmnlQxDXJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Boruto_810541",
+      "page_img": 16
+    }
+  },
+  {
+    "id_tag": "-1650597852",
+    "index_page": 3,
+    "hash_code_detail": "-516608841",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemwWLlWuYNRUWNoXmHoNk/rAsWawblKX/iLiDpOB/HApVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_5e86bf88e61d897f94946b14060ebec6",
+      "page_img": 18
+    }
+  },
+  {
+    "id_tag": "-1333025877",
+    "index_page": 4,
+    "hash_code_detail": "-1950267328",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifect6+7C8XILdOd+CBBsmp/oscGVpbv6bQACGHGCVU05Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "MyHeroAcademia_809276",
+      "page_img": 145
+    }
+  },
+  {
+    "id_tag": "639491575",
+    "index_page": 2,
+    "hash_code_detail": "1514241519",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif7a3z9Ga04bEYWs7lSEGhkOcxL2K8B2BGgmKrNiKf70JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "OnePiece_932964",
+      "page_img": 151
+    }
+  },
+  {
+    "id_tag": "-1333025880",
+    "index_page": 3,
+    "hash_code_detail": "747656611",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie7jai0msMSwFXhUIh+atRPasNTBQfibTntRY6vZeXhWJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Boruto_954053",
+      "page_img": 16
+    }
+  },
+  {
+    "id_tag": "639491570",
+    "index_page": 1,
+    "hash_code_detail": "625622517",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieWu5iDBZR91gnhzsxOIYgHpjjoYTcuZtJai42iz3qKLJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_ca256d4e05145ceecc70751118c16e5d",
+      "page_img": 25
+    }
+  },
+  {
+    "id_tag": "639491572",
+    "index_page": 2,
+    "hash_code_detail": "1234436217",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidIS4Kdo6jWwD0Aw9TjYkXJw7Rc4Z3P7imAwGtWxi0Q95Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallZ_739916",
+      "page_img": 42
+    }
+  },
+  {
+    "id_tag": "-1650597851",
+    "index_page": 59,
+    "hash_code_detail": "1664322442",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifccFYmLWnHL9AMhzdHsDz5169ehm23JY5OqjZ2xZ1RXZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_f15b5152730060c675e76e825a68c927",
+      "page_img": 21
+    }
+  },
+  {
+    "id_tag": "-1650597853",
+    "index_page": 3,
+    "hash_code_detail": "1020349373",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwgnWSzAe8xe36dX6/Z7TrTuEo81Vcsb2yo8GA+5WP7JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_3b578ce9613a9ce3469780115e438e7f",
+      "page_img": 17
+    }
+  },
+  {
+    "id_tag": "639491574",
+    "index_page": 2,
+    "hash_code_detail": "-1109430145",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkaiP3PFetFmrpy9vi5nVfuR27m+mqkCKdnXT1h3HYNJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "MyHeroAcademia_965017",
+      "page_img": 146
+    }
+  },
+  {
+    "id_tag": "-1333025879",
+    "index_page": 3,
+    "hash_code_detail": "-121154276",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejLGIENALZdioBHXTLjs1sIEKczKJ06Q1Vq0CVQV2+wZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_c52571cbf80a1960dc1857a8ccf0d468",
+      "page_img": 25
+    }
+  },
+  {
+    "id_tag": "639491566",
+    "index_page": 0,
+    "hash_code_detail": "1756875629",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicQT8kSyJQvogJIX2mLcpaEgmQQETUiucJyVyBACEkVlJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "AttackOnTitan_937884",
+      "page_img": 9
+    }
+  },
+  {
+    "id_tag": "-1333025877",
+    "index_page": 4,
+    "hash_code_detail": "-1602889555",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideAcKBf0cjoID5wXhP2ElYCCGqxc2Ixu63vAVyh0tUy5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Original_735176",
+      "page_img": 161
+    }
+  },
+  {
+    "id_tag": "639491571",
+    "index_page": 1,
+    "hash_code_detail": "-2049979854",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUgtsV2COK00Fw8VhzUcXJVzURQssW8I7yJmSVBcDNUpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DGrayman_485171",
+      "page_img": 39
+    }
+  },
+  {
+    "id_tag": "639491575",
+    "index_page": 2,
+    "hash_code_detail": "76243713",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierKr5MGR/Lc/0K0lZ8oU5jQzHMzAxPCNk8W/Y4+JnfuZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "OnePiece_551211",
+      "page_img": 150
+    }
+  },
+  {
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "109055831",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/y3UH5nrZiFXwge3xLI7YNzNWyAejm923xpkQOGGUsJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_160653",
+      "page_img": 12
+    }
+  },
+  {
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "-271068218",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcJMsV4tYaEiE+3eeHVfq2eWPlCMUmcNZJ2eNNpyPTp5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_283503",
+      "page_img": 13
+    }
+  },
+  {
+    "id_tag": "-1650597852",
+    "index_page": 3,
+    "hash_code_detail": "190980009",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddy8KyHbol3A2TuzhUY+MP0Q5ReeroHfz2t9jgA2/rspVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_599723f2a6ff42f5e5ca0986ce66d2d7",
+      "page_img": 18
+    }
+  },
+  {
+    "id_tag": "-1333025876",
+    "index_page": 58,
+    "hash_code_detail": "1967610854",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpFkUFc0g4/FaRI3kugbQcJD1WqJd/2tdTNUrjzV6p85Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "SwordArtOnline_791916",
+      "page_img": 180
+    }
+  },
+  {
+    "id_tag": "639491568",
+    "index_page": 1,
+    "hash_code_detail": "-1756305349",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifp07Eytmu/LjF7/e85u1MPVtqJ3jYHUvY1cHu1pevCDZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Boruto_810415",
+      "page_img": 15
+    }
+  },
+  {
+    "id_tag": "639491573",
+    "index_page": 2,
+    "hash_code_detail": "-1565805779",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidzGplRV6b8XOuDWaK1QIBAaOu9VSPHU+PrEEs3eoBHnZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Hyouka_970642",
+      "page_img": 135
+    }
+  },
+  {
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "-418349948",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif1YSpqombr1o9zmdB43STVyICdZR/iMgYhRhqInDe395Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_306356",
+      "page_img": 14
+    }
+  },
+  {
+    "id_tag": "639491570",
+    "index_page": 1,
+    "hash_code_detail": "-934727975",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifbdiWXil6NizUlrib8ER1lbGRSbKO1c4+B8eg7+QqC0JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_cf976efed4d153e0f385fc61bca91ee0",
+      "page_img": 25
+    }
+  },
+  {
+    "id_tag": "639491574",
+    "index_page": 2,
+    "hash_code_detail": "1009311675",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifLZ65ZRgfVjKne/F44V1BcmvjPy53bx9utoz9dj5B8P5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "MyHeroAcademia_937820",
+      "page_img": 146
+    }
+  },
+  {
+    "id_tag": "-1650597853",
+    "index_page": 3,
+    "hash_code_detail": "980929357",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieDrqPR0NIMgGUCEuiukGOuD0dy9k4NByVnpDz85D52WJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_46bfe6b9bc905218bb601ae6f9748786",
+      "page_img": 17
+    }
+  },
+  {
+    "id_tag": "-1333025876",
+    "index_page": 58,
+    "hash_code_detail": "956835585",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicSYJn5QDWzIdOQYzkZVt+tvqltgUzp2kqMnYzKMnORwpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ToaruMajutsunoIndex_813320",
+      "page_img": 184
+    }
+  },
+  {
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "685916502",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifaWV8c3SiSVjx9C6uvKn4lTrpY9/+dMPC1dwv6CWxtwJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_305030",
+      "page_img": 14
+    }
+  },
+  {
+    "id_tag": "639491571",
+    "index_page": 1,
+    "hash_code_detail": "1620767290",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidWfnMJALOduamq4nZ7zjXImi5zfxTEFawPuIdCKc84B5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_d3104614431ce479963649a297c0a1f6",
+      "page_img": 35
+    }
+  },
+  {
+    "id_tag": "639491566",
+    "index_page": 0,
+    "hash_code_detail": "641104076",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicJjLqrrsx//xQIz4S2CFHVqSPZ4aNPPEpBmwJ0dr5CcZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "AvatarTheLegendOfKorra_234403",
+      "page_img": 9
+    }
+  },
+  {
+    "id_tag": "-1333025879",
+    "index_page": 3,
+    "hash_code_detail": "1715717905",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCUs4MLx0Hu8wgO/HnF3XdSGVoBZidPYw9W+oqNHd8nJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BungouStrayDogs_941996",
+      "page_img": 26
+    }
+  },
+  {
+    "id_tag": "-1333025878",
+    "index_page": 4,
+    "hash_code_detail": "-1859968483",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidwjDZ26TMFykm159M7zI7HQgZRkyQcr1oH+g3N4TodoZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DGrayman_122274",
+      "page_img": 39
+    }
+  },
+  {
+    "id_tag": "639491572",
+    "index_page": 2,
+    "hash_code_detail": "-889621497",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif2W4z1HmDS7M+6PEBN5wavQjhNqC6IDTSl4Y9EPMe1EJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallZ_676476",
+      "page_img": 42
+    }
+  },
+  {
+    "id_tag": "-1650597855",
+    "index_page": 2,
+    "hash_code_detail": "305247244",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicW50iieXT/badVVoAPDIwGfX7jFljtBrI9X/JS55e/W5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "TalesofZestiriatheX_720097",
+      "page_img": 181
+    }
+  },
+  {
+    "id_tag": "-1333025879",
+    "index_page": 3,
+    "hash_code_detail": "-1012534917",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicp8iPqHBkUauJkG9DDzJ8sP0IJrgeDSzZenIqIFqWOz5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BungouStrayDogs_739892",
+      "page_img": 26
+    }
+  },
+  {
+    "id_tag": "639491574",
+    "index_page": 2,
+    "hash_code_detail": "1219165717",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCxrXaus5mgO4EAcBYnuD/jPLPUhYXMEu4qoe4JvUMJ5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "MyHeroAcademia_815321",
+      "page_img": 146
+    }
+  },
+  {
+    "id_tag": "639491569",
+    "index_page": 1,
+    "hash_code_detail": "-1606969748",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicZy/ZdqkqJOzqWu9Q/MlW75Eo8k0w5kSPDpJZpFJyi35Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_308f7511e7b0cedcf5e14208c60a9787",
+      "page_img": 23
+    }
+  },
+  {
+    "id_tag": "639491569",
+    "index_page": 1,
+    "hash_code_detail": "1967754768",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifk3IgZW5/y+7MWjOAi3gryawgaBjRt62HpoEycqzlEYpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_4ad4d606115d3aece648ed6f63bfb82e",
+      "page_img": 24
+    }
+  },
+  {
+    "id_tag": "-1650597851",
+    "index_page": 59,
+    "hash_code_detail": "345621678",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOLWCfkz+gpJXJ5pBQSHRPnjjD9gxi47KYDYHWnFk4b5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_fb74ee0c8daa2b4eb164c685d3779db3",
+      "page_img": 21
+    }
+  },
+  {
+    "id_tag": "-1650597855",
+    "index_page": 2,
+    "hash_code_detail": "1408987369",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic9e7Sbb/GL6ZkIlbOO8lha8iVF18SHFUBR9GoAy7/M+JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Original_889389",
+      "page_img": 172
+    }
+  },
+  {
+    "id_tag": "-1650597853",
+    "index_page": 3,
+    "hash_code_detail": "-653511720",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifoucr6l6gJbkQYEik3B18wDh1OZEjrm1/Lj8NRg05zSJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "YourName_787756",
+      "page_img": 198
+    }
+  },
+  {
+    "id_tag": "-1650597852",
+    "index_page": 3,
+    "hash_code_detail": "1015155402",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieq+bT7m2WRooR3yRvczPJXLnsEoKnPbGFuTeLAIRFMapVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_bd7ec312357d65a3cccb1dfe272d23cd",
+      "page_img": 20
+    }
+  },
+  {
+    "id_tag": "-1650597851",
+    "index_page": 59,
+    "hash_code_detail": "-1015876758",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifM64dJpOXOOekmpc7Ctq2gC1fiANC5gw9DiXZ4c5ZXUpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_cd14bd9d9965dbd35f91ec0e970c12c6",
+      "page_img": 20
+    }
+  },
+  {
+    "id_tag": "639491569",
+    "index_page": 1,
+    "hash_code_detail": "-2029284665",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiciAXxILeK27ATriN8JRFxUeKVpQU64MStNuGn7lU59rJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_10527029ebfb199f3ab3990b6345ec8b",
+      "page_img": 23
+    }
+  },
+  {
+    "id_tag": "-1333025880",
+    "index_page": 3,
+    "hash_code_detail": "-39242656",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiier8jbfcJBUyKnh+W7jT8eZCl7PbChg6u9i3FlgAZYbd5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BlueExorcist_270420",
+      "page_img": 15
     }
   },
   {
@@ -1200,1303 +990,263 @@
     }
   },
   {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "-891391454",
+    "id_tag": "639491572",
+    "index_page": 2,
+    "hash_code_detail": "-1688306131",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGoCAnGn4/u3p9yxdBzfz3YHsGlQ2c0zOaqdrqUMjbKpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_737037",
-      "page_img": 161
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemy3MdbRFK2tWVZrMa5SecIgvSlvCaC1746AvNvgmNwZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallSuper_851512",
+      "page_img": 41
     }
   },
   {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "-922479452",
+    "id_tag": "639491570",
+    "index_page": 1,
+    "hash_code_detail": "501240881",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiebIMWStGPPcqdXLrYevSsgot9RTQs1PbJwNCtXWlQTDJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SatsurikunoTenshi_935739",
-      "page_img": 177
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidtj6V2zT7DQafVRU4ygEEOExx77/OAp+hLL6Yq297F8pVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BungouStrayDogs_965379",
+      "page_img": 26
     }
   },
   {
     "id_tag": "-1650597853",
     "index_page": 3,
-    "hash_code_detail": "-696845731",
+    "hash_code_detail": "1899558181",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidVx2oV50qJZLCYRO0AhbP9lCg3V7hMjIgdYqH+UZFbA5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "YuYuHakusho_205012",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "698557121",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicDHuT7W2s5Y7ITln+0k5yUwHHQCgOLk3PKS/JK64EotZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_259847",
-      "page_img": 12
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-2113907551",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie21BuY/8pk8PaHzQzskdvf5+r4yrHmnE/Gl3kpWq5J2JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_26287e7c4fa54eb0a90d83e8a19e4fa5",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "307504200",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicGVkiR+FAAsBH7oiRyQddOX7HjecXMKoMkuvGz13dSTpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "YourName_861993",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieBdY/fa8by6tqHoNYsgcXZyxbnDmZdD6kmzUBPlB9Q0JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "YuGiOhZexal_682539",
       "page_img": 199
     }
   },
   {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "-761817847",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiffokWTLHowtdkhD87RKtgewxgGB0CpodAdQ1kpgKMhY5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Crossover_718632",
-      "page_img": 36
-    }
-  },
-  {
     "id_tag": "-1333025880",
     "index_page": 3,
-    "hash_code_detail": "-37079272",
+    "hash_code_detail": "19868387",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieECc4VjPNAF9zgRM8JbDBOPg6TCs94BifX7Is0eVrTTpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS32103190839571253",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiduGCTEiZv+WlCALA3EnzTgAJtSkIXYHif452/1hl6FZZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BOYS3210319083944815",
       "page_img": 22
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "827334104",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifrvom3PKvaKh5hu61jwJetd9H+k2huBLk636PH6Xm1JJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_295579",
-      "page_img": 13
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "1379724017",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiecakRbcBvnD1/L36xf5mqyeFEdhz3tHCdDCAGLULo41ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Boruto_810369",
-      "page_img": 15
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "1012435529",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8Q0yUE4OWqgmjhWCS+NUJiTICRNfcrUQ6xgWRYzKF6pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Naruto_106659",
-      "page_img": 147
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "1795150580",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfSLCe1wsDRnbj5HCdTvD6ZMRXmZYoDq2joAP0XT4DxZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "StarrySky_227891",
-      "page_img": 179
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "487986603",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfF4oiDAtz+TQLbDPwVNmJ0tt9Fbf8Mhaixx7GwBuO3JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "GoldenKamuy_922311",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "1657038293",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifl6JcK3ianF5UQcx+/3JuKXdsAIjbtUtmzi5EVxcohhZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FairyTail_764189",
-      "page_img": 45
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "1765320782",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieK5elBfN9NP262drnaRcqhFkiwhU8idPn09zw7YDjTwpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_753302",
-      "page_img": 7
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "-1484212511",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifPru5Zsy8gpSUwCJ7bsEaDXaM3qRlKI5VG2NoL3X6+0pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "GrimgarofFantasyandAsh_682451",
-      "page_img": 134
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "1131117785",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicTa7Wt0fiCOuNgjjoMU9RyoEeP8kGnoElGE6e2IisDfZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_612511",
-      "page_img": 7
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "806295986",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieojB1dBMTduagD5aDjauWkFJH7ScgFQWTHsofmyZoAf5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319083943914",
-      "page_img": 22
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "-1768897657",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieAiTtWwX8TUoFVJvLtUiC/KCgXFqMYnRwld8bHk1p8NZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BungouStrayDogs_965355",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-1874953100",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieH2QA5EXskzAkDhOvWdmkr10ygaD+sUCcLDzAezujUhJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_53783515c8d1fd3a026112c8adec4330",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "-1669352717",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieyWSfUCvYXzGyX2MCAxoDtQtDzH+ICwJKe4Ve5Lgx20pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_dac693e049bc1ea77aaa76969d8aca5a",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-866293984",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwi6uOohDMIz/1rnGIrg5clopDCqyEb/igOBPbisYiB5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_a72da62a55989df902b03af8d1b32447",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "-411391997",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicVX6kRAk3j4yC3wj7Wtd/WhhP3QW4BrLNwcOber83ZwJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Crossover_790089",
-      "page_img": 36
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "2063413503",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiien5h72li+bZgSnDSgYFS44wKlkDbJ03dD8+s0zdGsRBpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_345f8328821c0acaeac399ea4a655084",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "497269228",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid+2JuEepljmehhXU6rSgS99PZ1I+9BffPTRkLikJLtPpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BungouStrayDogs_748363",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "-1761592382",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicc6cC0CFSe7TSNmNc+DdYSwN8MB3oLSF3McHGNtjdvu5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "HypnosisMic_1006092",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "782897461",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidiRC4l0VyWYn30KEIxT++WwffatuWpv2JePGajp8ftj5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AkamegaKill_542752",
-      "page_img": 1
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "1047539497",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie8949aCssk2Xx6eeFd0z58nCvLZxkhc2uId1koDLC5PpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AjinDemiHuman_726006",
-      "page_img": 1
     }
   },
   {
     "id_tag": "639491572",
     "index_page": 2,
-    "hash_code_detail": "279810975",
+    "hash_code_detail": "994461528",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifU+tiuYCIoJrraTSNbjfwlgTnKS3Ag6lFBavWTA7S4PZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBallZ_680801",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicREJCyNdWMmDcEOdGOl8QOC+9oJp7vCmnWSdLhKW/2n5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallZ_715048",
       "page_img": 42
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "1895371089",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiddrTB4WCDSh6haek01J4kD7EdE8GfUMwBp2u1XdC/945Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_9326ded7fc786266fe5e3cc5be3ca15e",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "1801683161",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicMmjk+CGXffcAxF2atseKFTzdDnP+yoIrrtcXkY5xdXpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DGrayman_919690",
-      "page_img": 39
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "-1081593630",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideJkrWradMTZ1mNN5G/luiYO74QuPY5wdkpTdVgSXag5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319083945958",
-      "page_img": 22
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "-754916218",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4jwsCCkvPR1WeTx6DD5OuEyemFpQbN1sKTIqk/p5BMpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Dororo_1004775",
-      "page_img": 40
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "72575073",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifQ4gZzSA8FFOerH4SPzaCkPJF2P29tM6hGHEZJVmu6FpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_f2dd96081be0bc95dbb2e0c0f8b3e72c",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "-1650597854",
-    "index_page": 3,
-    "hash_code_detail": "111020047",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4CUPo1iGMX4Qmt2xrg0EzcIZ0DoAYOE41dplpA+qLFpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "TokyoBabel_296328",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "1153939165",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4mvu+KqhpKMhFsHvq0ed1cVQmgRcp2dvHgf/S7LZApZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "OnePiece_788677",
-      "page_img": 151
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "661610959",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiepOcdBTBsEASkKIvE/5LS3Wp1Ru2D0Qd1YKprHKd5IdpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS118031933",
-      "page_img": 21
-    }
-  },
-  {
-    "id_tag": "639491575",
-    "index_page": 2,
-    "hash_code_detail": "-372660067",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHcbQEuZnHc5fi2Be3L6yaj/hh+IPe0Sqh/Al8AKpZWZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_298971",
-      "page_img": 158
     }
   },
   {
     "id_tag": "639491570",
     "index_page": 1,
-    "hash_code_detail": "1727671222",
+    "hash_code_detail": "402442147",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifURJUq8pjWs8Szze67k68tWWjGijk7y67plnNrJnhTXJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Charlotte_683505",
-      "page_img": 28
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicdImWHkjpup6+mSdG6PFQC4aMOTsMLIS6CzLJAxSB935Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "CodeGeass_130352",
+      "page_img": 30
     }
   },
   {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-722658669",
+    "id_tag": "639491572",
+    "index_page": 2,
+    "hash_code_detail": "-1156999862",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifuaqS3hLdjW4+N7+Rcdzy2xK7hmj5IaUN7+x460VPBCJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_69b962bbc6510beb34a15fe45595bfe5",
-      "page_img": 18
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidT4NtFb9fTerN0hD4NJDxiACW/dGAkLqF6Xl66KbrXeJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBall_742778",
+      "page_img": 40
     }
   },
   {
     "id_tag": "639491574",
     "index_page": 2,
-    "hash_code_detail": "920166228",
+    "hash_code_detail": "264899533",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiel5gM4Z7v+uM5WAj6Is9L2Vb+dJW96M/Th1qV1w9HFFZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Naruto_106861",
-      "page_img": 147
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "-453221498",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidGHu1/Ppu9u929Lj8wRmKMY9iypwC+b4hRc4BU/x4doJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_f79540ba49475add2a3ca05898ee53d2",
-      "page_img": 21
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "-21871461",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgQF9FqhMeqI3+uDn2iNl9A7ABGmSeR2NvL6lYq6PvFJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MyHeroAcademia_978208",
-      "page_img": 146
-    }
-  },
-  {
-    "id_tag": "639491575",
-    "index_page": 2,
-    "hash_code_detail": "1022185434",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczuhC5A2V2qoIH+Ec1jybhVPQ/WmyBFyisC6H1O4n/J5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "OnePiece_218773",
-      "page_img": 150
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "-1566337326",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif/SC0snMEKT4Mu2JpjV2rTwWQsZEgGCFRnlICZxQtuuJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SwordArtOnline_294383",
-      "page_img": 180
-    }
-  },
-  {
-    "id_tag": "-1650597854",
-    "index_page": 3,
-    "hash_code_detail": "777402013",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiify2uNUP7a6eMimKS2794tLKS5k3eyyQuatR09CrPDbnpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ToukenRanbu_743294",
-      "page_img": 190
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "2122569839",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifXkON0E2XQCxm7L7/96GMXdm+dIk3LhoXVDQdY/6Xi85Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FairyTail_748294",
-      "page_img": 45
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "-1738823019",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicXdkIt021/0SCu1I2avhco5fvv+is4fgt/HvpMr67dIpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SteinsGate_631085",
-      "page_img": 179
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "-379373331",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicPh5dlkl4YsizRKRUpQe7hfEHzUr8Ti8YmOvxDQRZehpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BungouStrayDogs_966957",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "-1650597854",
-    "index_page": 3,
-    "hash_code_detail": "-1490021714",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8a7e1DzzkPEHXBBX1lXDAraKrQ2N6uVkjhITMewuBhZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "WilloWisp_776340",
-      "page_img": 197
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "250538939",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicRzNI+cPFPrWmtyhAHHg2QKxA2qnR34folqo1ritFKOZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_283502",
-      "page_img": 13
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-1715595610",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieT4o+FAdnvRda9iP3i3V6jtlwFRPIJtN7I+1S/BKYgfJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_06862c6459b2852ab04393d81fb1a0bd",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "-201661278",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifmfSgeP8tVN0JGKvXbK8TX+GHuhQPolcP8fANmtrh42pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_944542",
-      "page_img": 152
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "1630565893",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid4+Jz2gZWgEd6szvb1adX8tMiJ8hL8Rme7x5Zy1R7g25Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MyHeroAcademia_972816",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUnZZdcLIofw6qqtOTpRnGMUo8sZtbObnCchULYMyPcZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "MyHeroAcademia_930738",
       "page_img": 146
     }
   },
   {
     "id_tag": "-1650597853",
     "index_page": 3,
-    "hash_code_detail": "1910767231",
+    "hash_code_detail": "1262983864",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie02BhABF2Pnc4eMS8sn37A+Y/I/3oG2y1VyKTAD/fmCpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_2ff9f0451c565a6282ba237753042cf1",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifHg0CmePCtRIZOeqh1DmY1JmFzZMiCZecuRKdY4LW5DpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_2fbfb923d18e9ebb04abe80dde6c7814",
       "page_img": 17
     }
   },
   {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "91423434",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic/FAzV+oQ1M42fN33TTeImoX+0PTmQoCbUPnUxRJPuN5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_5e480bfe80dc6bfbea55c40fe23972a6",
-      "page_img": 18
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-1369216926",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUenFTXC4D67QKeE3Ya//halI7YH93/+E/DoNjmZc4PpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8a60eb51fe41ebc0c30e3989f02e5a9c",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "-1650597854",
-    "index_page": 3,
-    "hash_code_detail": "-49112217",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicEHl1DpTYHFSygfljUuCGsF1EL6ezEBR3Eqcd5qC5aipVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "TokyoGhoul_737365",
-      "page_img": 185
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "131183888",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif8orRtQ/mA44Z3FvqounQL28b3q0z+tEpkr4UQ0SXXkZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_6f8e590ab70cf38414d214c2c784bae2",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "1197099294",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidD+88BN1CalfD6frQzXk276QfNnyd9hPl84+FTZPzR1ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DGrayman_919548",
-      "page_img": 39
-    }
-  },
-  {
     "id_tag": "639491574",
     "index_page": 2,
-    "hash_code_detail": "2774492",
+    "hash_code_detail": "1268728110",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifcoQIXa7V0zlOGHsYRMSKxU2i6EOw5+Z0JjZq/5tg58ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Naruto_748044",
-      "page_img": 147
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "26590621",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnHKjVTAx+aWDAVAG6hyZNTHAla5q2D6s93n/F03EHBJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_c58ecc66c0275406357be8884487e632",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "1479739936",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicxyHEPe+CivNkw3LAp2zloLroWwSFBSINA9uxnutOvZJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_3f00af6f71034fc1bbd2f0f2eab22e9a",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "413072216",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieT1rZIx4tghY/TDq9RfttvuHJ0hTUhofE8lKvtD3yKfZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_753263",
-      "page_img": 7
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "138169888",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidFC3a0DQ/nYv3BVS2HIYRVNbal9sLBeiH+Dpv4S5FUepVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Working_766812",
-      "page_img": 197
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-154284768",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideetuSnFVlYSxiagNRjoK1ee3gtvZrs/I4vnIRTx+TRpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BeyondtheBoundary_757440",
-      "page_img": 10
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "-71939094",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifasiuXA5ci1IvEioBLTcv7FSVMsZ4Fvf4qZgGTgCL8vJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Boruto_810449",
-      "page_img": 16
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "145981646",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicOm1YWzu3Dfx0Sdx8d1N9HvX8i3ydEN/y+XrGW4tDr5ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SwordArtOnlineMovieOrdinalScale_803100",
-      "page_img": 181
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "1185724809",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifesWsd/Hoh4jUDir5r1fF03b69lx/wIrEajBJsTmTrJ5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_e9418f907470ffed51a052d3855a2691",
-      "page_img": 21
-    }
-  },
-  {
-    "id_tag": "639491575",
-    "index_page": 2,
-    "hash_code_detail": "-1198373340",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifqytJ0CPP0vHQEVo8ZF9MiI/LUgasxVLTs7+fHCuXn1ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_909759",
-      "page_img": 155
-    }
-  },
-  {
-    "id_tag": "639491572",
-    "index_page": 2,
-    "hash_code_detail": "-133796959",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3lOJRkqsnRqMYAuY7zqjlh0eHBbMNLH2/X7JtcHBKkZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBall_889439",
-      "page_img": 40
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "-1504664424",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiierfa8u52sgW/nNHjSpUUAt3oXYR92STdxXpOU3WgmDs5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "OnePiece_932954",
-      "page_img": 151
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "-1683938040",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidlNfrm2LId/+3YVdzKq1I26YQSV2EEOkdy3bThtIXxYpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FairyTail_769551",
-      "page_img": 45
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-1887432059",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiexg/H1qXYBUGWg6p2Q6AMYRFEN3WLq9z8KFiHMtjBMSZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_786317",
-      "page_img": 8
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "1951130943",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidgzlsNfUVjk+a4CE4xkonjsXTLNhAbq2P8iJHoaxvGjZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_cf36a6b6ef321da1704094815dc7a29a",
-      "page_img": 140
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "-702904213",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieCamBiIBozUFVn/Tilg/CvELhsz6JKgzp0AhtNWnngzJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ShiningTearsXWind_958261",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "-1198551778",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicdAGvSTsVD5OiwSlZrX06f6zkaDheORDMwx0WDGar/nJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BlackBullet_839128",
-      "page_img": 10
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-679520300",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic4Ifehvup+3Ov7bsdFHpolZ7z/aDazMCcL59C0cvAyL5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_b92bcde1e62a9c0fac5cb341b836eea5",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "924801383",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifknSHRxwtZ2o1IuSO1+ruW13QrarZkho6oJcn5ESuUYJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Naruto_948811",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifVOLsIL2SWlIIY6ybZlH32MfPbYQLSgRdU7wfLVmeoxZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Naruto_915979",
       "page_img": 148
     }
   },
   {
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "1083492405",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicR/sJ0q1411+w3whd1/bCxd2gNtDixHyGBBaaSZF+d1JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_259605",
+      "page_img": 12
+    }
+  },
+  {
+    "id_tag": "639491568",
+    "index_page": 1,
+    "hash_code_detail": "-1523489074",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiift6ukigi9cD/AA54hA/UfrIWZonJHCVg5Cjz9mMf/O9ZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "BlueExorcist_766705",
+      "page_img": 15
+    }
+  },
+  {
     "id_tag": "-1333025876",
     "index_page": 58,
-    "hash_code_detail": "-620509228",
+    "hash_code_detail": "-135504590",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif21R6poMeQjtH1p9VG6PPByhEjJcebHOut1Cd6LAvtNZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Vocaloid_313760",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidKz8+etK5PbzJ/pNI6WS4Q4w4MqQvT4GiGeDSoZUHiqpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Vocaloid_304528",
       "page_img": 194
     }
   },
   {
     "id_tag": "639491572",
     "index_page": 2,
-    "hash_code_detail": "-1607328647",
+    "hash_code_detail": "-1189297568",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiePvqxDnhPkRq3am6paeMm034eHseW2dUqVOvi9svhzkJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBallSuper_833316",
-      "page_img": 41
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "1487311466",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiideAOyx6ZSUQSb4Fw7UltniQ+LKk3iUTbr0FTus/OVulZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "SatsurikunoTenshi_936639",
-      "page_img": 177
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "1550531857",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicr1yLxCNRDf29ilJ/Ie50MnykaAGDo/RcwcO1xoZhk1ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FairyTail_743707",
-      "page_img": 44
-    }
-  },
-  {
-    "id_tag": "639491573",
-    "index_page": 2,
-    "hash_code_detail": "-1541439102",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidRHo96Z/I6cBFvmwzO3Imeve30BIe7tYHbnHe9fRXIzZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Haikyu_863737",
-      "page_img": 134
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "-928660990",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiied07UeqKRjAC8rEzCCPSaa2LwBVUYm/cAQxmAsmEN/xJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FairyTail_603859",
-      "page_img": 44
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "684217066",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbSU/rDwqSXUIhog6b7fbsJbMthZM7+tUpmYjgaStOVZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AngelsOfDeath_978083",
-      "page_img": 4
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "-1915114458",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidsCMqVNv32c6+YCy5Z7Ca0Ki6cSilSEYKLdVR8X2uyApVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8972bfe59f709b2a1028df95e43576fe",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "923206095",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid9fA7t5DY8fTsdr2pmlumxona0G5zhxhT00a9gJBAEhJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BOYS3210319084339262",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "-741694458",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczZ666BbeXcjocbAelN5BQFVX5806oBZsUHZ7ZYAoSYJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "GoldenKamuy_952725",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "-1650597853",
-    "index_page": 3,
-    "hash_code_detail": "642802403",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifnP51a9u4jQn3r5xVo6SzhhVM1E06JAs6GqT18Amiqo5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_2e06916be528f4bb7985757bc7e07f24",
-      "page_img": 17
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-1003766028",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiczRMKNfhaS9vUS786ORISe+vQPwRwHBmJaTGgPBtEA+5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_b9e687c342b6bb8cd7b7b41a58d4942d",
-      "page_img": 20
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "199646664",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid8yNNSpm1FxZn+M4MFoXl6Zr+DvRdGIn0ur8jgKO1xVZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BlueExorcist_640622",
-      "page_img": 15
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-2059476971",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidNsgYQIGbVFaCfY6h0X3/ev9WqpRPNbjyc/dFtEQZFPpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_51c512c1170bc8e02f6efb041265eec3",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-1098380932",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidxBtCWm9nWLeOrlxHc0wuNdqN5NnJ48P6cupjBqcWgiZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_60f9e78719fb906f8a38c6524a3451c2",
-      "page_img": 18
-    }
-  },
-  {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "-1797439714",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiic09C8aeuGf9mA20D8LBRv82UEQV3Pui3NXyOhp0yhWfpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DemonSlayerKimetsunoYaiba_1024185",
-      "page_img": 38
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-1120061601",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif4bYowpCZYeXeVOmyMQ+wkXN+EvCgqLLQcJai9f84285Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AttackOnTitan_753422",
-      "page_img": 7
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "-665294520",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif+34UsiSoxRQOvWQLKSxDQOvPQe5sb5vIjt0bRAh6kV5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_264165",
-      "page_img": 13
-    }
-  },
-  {
-    "id_tag": "-1333025877",
-    "index_page": 4,
-    "hash_code_detail": "816820391",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidA9pCgWwkcugsnxiGdVsCVClqoIfacjc0qYNPdcNRGdpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MobPsycho11062023301520",
-      "page_img": 144
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "-1208446818",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietDqiIaIEuCjYiPGxKIZSo+uZPRPldwj+Z9tR028q0cZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_41ab652656e8e1642337be9edd6b3914",
-      "page_img": 24
-    }
-  },
-  {
-    "id_tag": "639491572",
-    "index_page": 2,
-    "hash_code_detail": "-1687502233",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicyGal0gjxYIG9maPKfinet1xA58rPcxTnToZOyuh6/jpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBallZ_664420",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiick8CrCn0WoBGL1wpfmLjlHrGv+q2bJqOVSOOJHf7Nf5pVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallZ_652188",
       "page_img": 42
-    }
-  },
-  {
-    "id_tag": "-1650597851",
-    "index_page": 59,
-    "hash_code_detail": "-150776408",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicbj/utXM5/TCLp7xhxaMtDioGD2viS1r4tnSKqIe7jIJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_92485cc495a4b8888cf4c3923f44293d",
-      "page_img": 140
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "-1798291058",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidQnTarbTGuF1MxxjQNP1HOk86AT65lXTbg26N1LqaL2ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MyHeroAcademia_965241",
-      "page_img": 146
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "-1383283945",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifK2FQQNyFrNQOC5m7goz8MexR1hyOjzwJhoyc+rCQMgZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_0ffcdb43aa799e660ec9edb44b7145a5",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "639491567",
-    "index_page": 1,
-    "hash_code_detail": "1236291950",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicpX7NXQWMuTOj3JkG6I5HvLdvOFD2wrm+KsNkowOEaS5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Bleach_259829",
-      "page_img": 12
-    }
-  },
-  {
-    "id_tag": "-1650597852",
-    "index_page": 3,
-    "hash_code_detail": "-1066926780",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifZdgx1hBXDgsX16keGW95rNKSczvQONxe08EX68vMj55Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_8116e552c290bd045babda7830c04106",
-      "page_img": 18
-    }
-  },
-  {
-    "id_tag": "639491571",
-    "index_page": 1,
-    "hash_code_detail": "1808029093",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiietOb27B8cEuICvwHfTfCJcfXNqQFMqgg1SgRNZqDlfgZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DetectiveConan_482688",
-      "page_img": 39
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "-508822447",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieGtUbZS6u7NKBBA0zkmf+ZBpLy2nZkxn6uYBEotQWw05Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "MyHeroAcademia_881204",
-      "page_img": 146
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "162006238",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidvILoxa5+enVEbM3EGgcX4/FfWuJtzXNaGyLPlD5YM0ZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AjinDemiHuman_972678",
-      "page_img": 1
-    }
-  },
-  {
-    "id_tag": "-1650597853",
-    "index_page": 3,
-    "hash_code_detail": "-1418247113",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicfG8Xlf8/rTIU8pNk3OkWDJkG7wKLQcoRATWc5tFWe8JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_440694fab92583d03c086cae4795e62c",
-      "page_img": 17
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "-982342740",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifgwkVb/dGVhth74WhGI/A6Wom6ZsCtvo5fHlc1LwppcpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Naruto_107899",
-      "page_img": 147
-    }
-  },
-  {
-    "id_tag": "639491572",
-    "index_page": 2,
-    "hash_code_detail": "-962164545",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicwr4OOsHTYrKpcL0RHa4AUhtxWCsnCunBr3zCnxUgD6pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "DragonBallSuper_845075",
-      "page_img": 41
     }
   },
   {
     "id_tag": "639491575",
     "index_page": 2,
-    "hash_code_detail": "321942906",
+    "hash_code_detail": "1031795993",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiemsMz+wwJ/Jyh2L2UGHXhA9Q64seFczpH4rsJ00QlFfpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Original_940533",
-      "page_img": 152
-    }
-  },
-  {
-    "id_tag": "-1650597854",
-    "index_page": 3,
-    "hash_code_detail": "238855177",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiejgD6DvGWHGDtOF/iEkW6g1wq3lIbQb8soy0iFVt5PJJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ToukenRanbu_744184",
-      "page_img": 190
-    }
-  },
-  {
-    "id_tag": "-1333025879",
-    "index_page": 3,
-    "hash_code_detail": "1087450480",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicUAUqE0GwRD4Di9kV8xqG/5Wj//D1qjtvHKNopfF9yEJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_f6fa5a77bfb56858bcd778521d6b787b",
-      "page_img": 26
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "-372739643",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifjoZHM/9AhoWBCnuw6BnpDgKKpiDyt6DdVc6IFIpm9cZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BloodBlockadeBattlefront_955446",
-      "page_img": 15
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "56319153",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidkDd9WodY9TR1HfMcafpbQU12pw4OKj1XGO6GWy6TN+JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "AssassinationClassroom_932741",
-      "page_img": 7
-    }
-  },
-  {
-    "id_tag": "-1333025880",
-    "index_page": 3,
-    "hash_code_detail": "-1087646324",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidhe8vNdD+r7rLxQWsei18gSk+9T5SScJrcQqRRN194eJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_187e9df79f458a6801b32f8bd08df9e8",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "639491566",
-    "index_page": 0,
-    "hash_code_detail": "-458218354",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie2tqWeTcFK9vMLMEzuTzKnyImdZCWkbQNGd9FJtJXar5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BeyondtheBoundary_705366",
-      "page_img": 10
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieoI2niD4J4EnS+jzbW7BK5VYeUgCcipYBpjnFdfv5AaJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "NatsumesBookofFriends_764322",
+      "page_img": 148
     }
   },
   {
     "id_tag": "-1650597852",
     "index_page": 3,
-    "hash_code_detail": "-834958283",
+    "hash_code_detail": "-1124523800",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiie5G/wju4lb2yIL/URcUDr1YLPlAfEFXLRi6IlHn9aMP5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_9c95a0185c955ff7a4aa6b9d0d39c4ea",
-      "page_img": 19
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZ2kYq9JTPlM9Fqv6q3nAnRucyLkx0YIpJoTex4ex5IpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_6226504b391bb0007c37a87bbfd6bb01",
+      "page_img": 18
+    }
+  },
+  {
+    "id_tag": "639491574",
+    "index_page": 2,
+    "hash_code_detail": "-1703802077",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidBdj/D1TSdWn0kTvAUh+x6ZipDF0pVXPTyS8Volw2QcJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Naruto_789346",
+      "page_img": 148
+    }
+  },
+  {
+    "id_tag": "-1650597855",
+    "index_page": 2,
+    "hash_code_detail": "115664776",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifR98+4QxOahamWqNbDSfVgX0dthfH0m5paglOmvnMtS5Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Original_790874",
+      "page_img": 166
+    }
+  },
+  {
+    "id_tag": "-1333025877",
+    "index_page": 4,
+    "hash_code_detail": "-1234590744",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifwEJ8/qiBkSh9wQAtg4bKpCrw29yFB3fiIFHFRJEmaBJVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Naruto_703728",
+      "page_img": 147
+    }
+  },
+  {
+    "id_tag": "639491566",
+    "index_page": 0,
+    "hash_code_detail": "1344079660",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifd3Q6nzvRUgjiifrge5gjFXi8J2s6lr1ZHeMVZL+iV9JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "AvatarTheLastAirbender_567340",
+      "page_img": 9
+    }
+  },
+  {
+    "id_tag": "639491567",
+    "index_page": 1,
+    "hash_code_detail": "-1809261073",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifYSS/0T48CWRw+kiAOfM/1ZuLMcw/D3pzj8TnQbV0K8JVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Bleach_261799",
+      "page_img": 13
+    }
+  },
+  {
+    "id_tag": "639491571",
+    "index_page": 1,
+    "hash_code_detail": "891477738",
+    "detail": {
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieG8SggyQP+p/fjVRERHxpX1Jw2UqrOJsj5IT7rTCBN1pVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "Crossover_829985",
+      "page_img": 36
     }
   },
   {
     "id_tag": "-1650597851",
     "index_page": 59,
-    "hash_code_detail": "-504189069",
+    "hash_code_detail": "-1650643761",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiies0oAEw7+9j7W3m93kdoedgd96I8SgtcXn/dWsIBNWrpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_fe460b939c0d7b8dc1f7f108ff3eb3a0",
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif3CVyttSCxVLX+RV2vVYZRTyUD/7FM5EtMRoFMTqnzqZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_ee3a5469ccc89b3fb6ced08fda0ee396",
       "page_img": 21
     }
   },
   {
     "id_tag": "639491569",
     "index_page": 1,
-    "hash_code_detail": "1859464738",
+    "hash_code_detail": "1535576133",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiidCTJ4UPoHt/aUmEcoH3v4w3ZRK8GesPPT7OrEpdMYmrZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_73348bbe3b3bc7c0653816ee3f8aeab8",
-      "page_img": 24
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifJqpjfygaFCZn7OKHeSRUmnl94c61cKo754M7Bfwkg65Vy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_8a0e2e83a52e15f209e8488f330f1c4f",
+      "page_img": 25
     }
   },
   {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-1982768915",
+    "id_tag": "639491572",
+    "index_page": 2,
+    "hash_code_detail": "244469099",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifOgjqmATsxa1n946nF4ngDIoy0G61VkTvGRga7N+Zl7JVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_04f3c23358f0b4420cb2312bfe1e87ad",
-      "page_img": 23
-    }
-  },
-  {
-    "id_tag": "-1333025876",
-    "index_page": 58,
-    "hash_code_detail": "1134349212",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicA2SNd5AVfDjU+TT1uMqYhAP+i6Z+l6FKo0KUo5MLd6pVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Vocaloid_804235",
-      "page_img": 194
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid3dYv4zByynytrCx6P2Z5UqPAYcqTwKoirURlieti5HpVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "DragonBallGT_652182",
+      "page_img": 40
     }
   },
   {
     "id_tag": "-1650597852",
     "index_page": 3,
-    "hash_code_detail": "-616378693",
+    "hash_code_detail": "-2042075218",
     "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifRF/QtwczcPgoTkv+1YDElUncQgteaN1o936nloyilPZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_9c18e22972bf61f080b9f2368f1d89d3",
-      "page_img": 19
-    }
-  },
-  {
-    "id_tag": "639491569",
-    "index_page": 1,
-    "hash_code_detail": "-1290294689",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiicqdXZbm9hIA2ZtIRB+0sMNLniosZgeG/g4i5VGM7yKvJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_9eec4cabef291a0f2b241119678ca98b",
-      "page_img": 25
-    }
-  },
-  {
-    "id_tag": "639491568",
-    "index_page": 1,
-    "hash_code_detail": "1171855803",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiiegSNqI19tSCgJH4WMTbnqFQm9XZlpCD940zmNNwavFEJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "BloodyRondo_214004",
-      "page_img": -1
-    }
-  },
-  {
-    "id_tag": "639491574",
-    "index_page": 2,
-    "hash_code_detail": "-1370204208",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiid1GNNGvCqCyZPqIWTdxH7TbOuSnZFEoUUYiIljfTibYJVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "Naruto_736072",
-      "page_img": 147
-    }
-  },
-  {
-    "id_tag": "-1650597855",
-    "index_page": 2,
-    "hash_code_detail": "-1264310537",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiifGfG/5LwtqgqIz0lFa9dj2C3Hln+irsIMRsbspaacTIZVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "StarrySky_227904",
-      "page_img": 179
-    }
-  },
-  {
-    "id_tag": "639491570",
-    "index_page": 1,
-    "hash_code_detail": "470398140",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiif0dtwx2keMFqooRwGWJ5pY5Xoi3/hWkRzROF8AZQEoEpVy4706IhQgSYlgwrgVRHU=",
-      "id_image": "ANIME_PIC_645fefec51c65632006c1f8dd0b0709b",
-      "page_img": 35
-    }
-  },
-  {
-    "id_tag": "-1333025878",
-    "index_page": 4,
-    "hash_code_detail": "-1617732621",
-    "detail": {
-      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieZfinASCt+zHxTdu0ZTpcJ3IUDPTdmyzt8A2s6Qg/Bw5Vy4706IhQgSYlgwrgVRHU=",
-      "id_image": "FateZero_834578",
-      "page_img": 48
+      "link_thumb": "UTb0sGqADnbLiHq9qhRMRkSRiLND0Tk7ctN8tpraiieHZM4pBzZ6Hezox9GFSjMkFjOZu6ovt923q693jWQ+7ZVy4706IhQgSYlgwrgVRHU=",
+      "id_image": "ANIME_PIC_765149bd19cee04bf54c741d6426d070",
+      "page_img": 18
     }
   }
 ]
